@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import FormImage from '../../public/form.png'
 import Image from 'next/image'
 import { useFormik } from 'formik'
 import * as Yup from 'yup'
